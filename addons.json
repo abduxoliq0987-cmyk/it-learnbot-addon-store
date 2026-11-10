@@ -2,5 +2,17 @@
 {
   "store_name": "IT LearnBot Add-on Store",
   "version": "1.0.0",
-  "addons": []
+  "addons": [
+    {
+      "id": "html-learning",
+      "name": "HTML o‘rganish",
+      "version": "1.0.0",
+      "author": "IT LearnBot",
+      "description": "HTML dasturlash tilini bosqichma-bosqich o‘rganish.",
+      "category": "Ta'lim",
+      "download_url": "",
+      "sha256": "",
+      "verified": false
+    }
+  ]
 }
