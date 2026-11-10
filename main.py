@@ -67,3 +67,17 @@ def addons():
 @app.get("/api/version")
 def version():
     return {"version": "1.1.0"}
+
+@app.get("/api/addons/{addon_id}")
+def get_addon(addon_id: str):
+    try:
+        catalog = get_catalog()
+
+        for addon in catalog["addons"]:
+            if addon.get("id") == addon_id:
+                return addon
+
+        return {"error": "Qo‘shimcha topilmadi"}
+
+    except Exception:
+        return {"error": "Katalogni yuklab bo‘lmadi"}
