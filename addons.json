@@ -8,10 +8,10 @@
       "name": "HTML o‘rganish",
       "version": "1.0.0",
       "author": "IT LearnBot",
-      "description": "HTML dasturlash tilini bosqichma-bosqich o‘rganish.",
+      "description": "HTML dasturlashni o‘rganish",
       "category": "Ta'lim",
-      "download_url": "",
-      "sha256": "",
+      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/HTML_Learning.zip",
+      "sha256": "2C09D8CF4A8D0ACFFD4C2702372724D347D41AD5B972069E32CC45F7885A80F7",
       "verified": false
     },
     {
@@ -19,12 +19,11 @@
       "name": "3D Adventure",
       "version": "1.0.0",
       "author": "IT LearnBot",
-      "description": "3D orol sarguzasht o‘yini.",
+      "description": "3D orol sarguzasht o‘yini",
       "category": "O‘yinlar",
-      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/IT_Learn_Browser_3D_Adventure.zip"
-      "sha256": "a329b9f609146135a55cbac8fb21ef111fcf9ae99d0c0bef682311f8f52e9b97",
-      "verified": true
+      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/IT_Learn_Browser_3D_Adventure.zip",
+      "sha256": "SHA256_HOZIRCHA_TEKSHIRILMAGAN",
+      "verified": false
     }
   ]
 }
-
