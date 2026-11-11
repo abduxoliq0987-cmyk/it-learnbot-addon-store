@@ -16,3 +16,14 @@
     }
   ]
 }
+{
+  "id": "3d-adventure",
+  "name": "3D Adventure",
+  "version": "1.0.0",
+  "author": "IT LearnBot",
+  "description": "O‘zbek tilidagi 3D orol sarguzasht o‘yini.",
+  "category": "O‘yinlar",
+  "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/3D_Adventure.zip",
+  "sha256": "a329b9f609146135a55cbac8fb21ef111fcf9ae99d0c0bef682311f8f52e9b97",
+  "verified": true
+}
