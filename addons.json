@@ -5,6 +5,17 @@
   "description": "IT Learn Browser uchun qo‘shimchalar do‘koni",
   "addons": [
     {
+      "id": "html-learning",
+      "name": "HTML o‘rganish",
+      "version": "1.0.0",
+      "author": "IT LearnBot",
+      "description": "HTML dasturlashni o‘rganish",
+      "category": "Ta'lim",
+      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/HTML_Learning.zip",
+      "sha256": "2c09d8cf4a8d0acffd4c2702372724d347d41ad5b972069e32cc45f7885a80f7",
+      "verified": false
+    },
+    {
       "id": "3d-adventure",
       "name": "3D Adventure",
       "version": "3.0.0",
@@ -13,36 +24,8 @@
       "category": "O‘yinlar",
       "type": "game",
       "offline_ready": true,
-      "download_url": "BU_YERGA_ZIP_YUKLASH_MANZILINI_QOYING",
-      "sha256": "146d3aaf9c13b2084eeaf6bd3ac3117e64d927137c8665766a1a661fcd9a089c"
-    }
-  ]
-}
-
-{
-  "store_name": "IT LearnBot Add-on Store",
-  "version": "1.1.0",
-  "addons": [
-    {
-      "id": "html-learning",
-      "name": "HTML o‘rganish",
-      "version": "1.0.0",
-      "author": "IT LearnBot",
-      "description": "HTML dasturlashni o‘rganish",
-      "category": "Ta'lim",
-      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/HTML_Learning.zip",
-      "sha256": "2C09D8CF4A8D0ACFFD4C2702372724D347D41AD5B972069E32CC45F7885A80F7",
-      "verified": false
-    },
-    {
-      "id": "3d-adventure",
-      "name": "3D Adventure",
-      "version": "1.0.0",
-      "author": "IT LearnBot",
-      "description": "3D orol sarguzasht o‘yini",
-      "category": "O‘yinlar",
       "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/3D_Adventure_Addon.zip",
-      "sha256": "4e5cbb9cf9c751328f2e5d1794dd491af74d4ef891f2d232437b26b77350dfba",
+      "sha256": "146d3aaf9c13b2084eeaf6bd3ac3117e64d927137c8665766a1a661fcd9a089c",
       "verified": true
     }
   ]
