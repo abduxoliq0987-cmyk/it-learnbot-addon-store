@@ -1,7 +1,8 @@
 
 {
   "store_name": "IT LearnBot Add-on Store",
-  "version": "1.1.0",
+  "version": "1.3.0",
+  "description": "IT Learn Browser uchun qo‘shimchalar do‘koni",
   "addons": [
     {
       "id": "html-learning",
@@ -17,12 +18,14 @@
     {
       "id": "3d-adventure",
       "name": "3D Adventure",
-      "version": "1.0.0",
+      "version": "3.0.0",
       "author": "IT LearnBot",
-      "description": "3D orol sarguzasht o‘yini",
+      "description": "12 bosqichli, offline ishlaydigan sarguzasht o‘yini",
       "category": "O‘yinlar",
+      "type": "game",
+      "offline_ready": true,
       "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/3D_Adventure_Addon.zip",
-      "sha256": "4e5cbb9cf9c751328f2e5d1794dd491af74d4ef891f2d232437b26b77350dfba",
+      "sha256": "146d3aaf9c13b2084eeaf6bd3ac3117e64d927137c8665766a1a661fcd9a089c",
       "verified": true
     }
   ]
