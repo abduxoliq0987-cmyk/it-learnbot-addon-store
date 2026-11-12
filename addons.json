@@ -1,8 +1,6 @@
-
 {
   "store_name": "IT LearnBot Add-on Store",
-  "version": "1.3.0",
-  "description": "IT Learn Browser uchun qo‘shimchalar do‘koni",
+  "version": "1.2.0",
   "addons": [
     {
       "id": "html-learning",
@@ -12,20 +10,18 @@
       "description": "HTML dasturlashni o‘rganish",
       "category": "Ta'lim",
       "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/HTML_Learning.zip",
-      "sha256": "146d3aaf9c13b2084eeaf6bd3ac3117e64d927137c8665766a1a661fcd9a089c",
+      "sha256": "2C09D8CF4A8D0ACFFD4C2702372724D347D41AD5B972069E32CC45F7885A80F7",
       "verified": false
     },
     {
       "id": "3d-adventure",
       "name": "3D Adventure",
-      "version": "3.0.0",
+      "version": "2.0.0",
       "author": "IT LearnBot",
-      "description": "12 bosqichli, offline ishlaydigan sarguzasht o‘yini. Har bir hududda 3 ta kristall yig‘ing va yangi darvozalarni oching.",
+      "description": "8 bosqichli, to‘liq offline 3D sarguzasht o‘yini",
       "category": "O‘yinlar",
-      "type": "game",
-      "offline_ready": true,
-      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/3D_Adventure_Addon.zip",
-      "sha256": "146d3aaf9c13b2084eeaf6bd3ac3117e64d927137c8665766a1a661fcd9a089c",
+      "download_url": "https://raw.githubusercontent.com/abduxoliq0987-cmyk/it-learnbot-addon-store/main/3D_Adventure_Addon_v2.zip",
+      "sha256": "e531d395556991843dc7276ac4b28cd6c33614ed3342940000b267dde0c9146f",
       "verified": true
     }
   ]
